@@ -1,0 +1,19 @@
+<html>
+<body>
+
+<h2>Make your choice</h2>
+
+<button type = "savedoug" onclick="myFunction()">Save Doug</button>
+<button onclick="myFunction2()">Save Carley</button>
+<script>
+
+function myFunction() {
+  alert("Doug will remember that");
+}
+function myFunction2() {
+  alert("Carley will remember that")
+}
+</script>
+
+</body>
+</html>
